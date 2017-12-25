@@ -4,7 +4,7 @@
 Add Christmas hats to people and cats in photo automatically.
 ## Getting started
 ### 文件说明 file structure
-`tutorial.ipynb`是主要的程序。 `tutorial.ipynb` is the main program.
+`tutorial.ipynb`是主要的程序。 `tutorial.ipynb` is the main program.  
 `photos/`放着测试照片，和帽子素材。 `photos/` have the test photos and resources of hats.  
 `models/`里面放置训练好的模型。 `models/` have the pretrained classifiers.  
 `results/`里面放置完成了的图片。 `results/` will have processed photos.  
